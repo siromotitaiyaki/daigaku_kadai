@@ -1,8 +1,3 @@
-/**
-* Person2.java
-* @author 22266055 Shigemura Kazuma
-*/
-
 public class Person2 {
     // フィールドの定義
     int age; // 年齢を記憶するフィールド

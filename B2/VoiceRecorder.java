@@ -1,8 +1,3 @@
-/**
-  * VoiceRecorder.java
-  * @author 22266055 Kazuma Shigemura
-  */
-
 public class VoiceRecorder extends MusicPlayer{
     private String memory; // Recordingした文字列を記録するためのフィールド
 

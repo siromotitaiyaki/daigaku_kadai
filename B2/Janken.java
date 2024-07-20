@@ -1,8 +1,3 @@
-/**
-* Janken.java
-* @author 22266055 Kazuma Shigemura
-*/
-
 import java.util.Random; // パッケージのインポート
 public class Janken{
     public static void main(String[] args){

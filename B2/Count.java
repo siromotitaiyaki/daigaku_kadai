@@ -1,8 +1,3 @@
-/**
-* Count.java
-* @author 22266055 Shigemura Kazuma
-*/
-
 import java.util.ArrayList;
 import java.util.Collections;
 public class Count {

@@ -1,8 +1,3 @@
-/**
-  * MusicPlayer.java
-  * @author 22266055 Kazuma Shigemura
-  */
-
 import java.util.Random; // パッケージのインポート
 public class MusicPlayer {
     // フィールド

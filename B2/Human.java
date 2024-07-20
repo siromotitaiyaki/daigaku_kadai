@@ -1,8 +1,3 @@
-/**
- * Human.java
- * @author KondoT
- */
-
 import java.io.*; // for IOException
 
 public class Human {

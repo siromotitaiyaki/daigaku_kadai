@@ -1,8 +1,3 @@
-/**
- * Song.java
- * @author KondoT
- */
-
 public class Song {
     
     private String name; // song name

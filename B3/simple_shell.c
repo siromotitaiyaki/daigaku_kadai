@@ -1,9 +1,3 @@
-/*
- *  Copyright (c) 2017 Hiroshi Yamada <hiroshiy@cc.tuat.ac.jp>
- *
- *  a simple shell
- */
-
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>

@@ -1,8 +1,3 @@
-/**
-* WhatTime.java
-* @author 22266055 Shigemura Kazuma
-*/
-
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 

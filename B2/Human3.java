@@ -1,8 +1,3 @@
-/**
- * Human3.java
- * @author KondoT
- */
-
 public class Human3 {
     
     public static void main(String[] args) {

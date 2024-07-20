@@ -1,8 +1,3 @@
-/**
-* Factorial.java
-* @author 22266055 Shigemura Kazuma
-*/
-
 class Factorial{
     public static void main(String[] args){
         int i=0, result; // ループ用の変数

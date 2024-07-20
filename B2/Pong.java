@@ -1,8 +1,3 @@
-/**
-* Pong.java
-* @author 22266055 Shigemura Kazuma
-*/
-
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;

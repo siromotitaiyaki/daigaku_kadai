@@ -1,8 +1,3 @@
-/**
-* TextFileConverter.java
-* @author 22266055 Shigemura Kazuma
-*/
-
 import java.util.ArrayList;
 import java.io.*;
 
